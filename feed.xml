@@ -3,10 +3,68 @@
     <title>rEW</title>
     <link href="https://comeonyoucandoit.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://comeonyoucandoit.github.io/gh-pages" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2022-05-23T22:59:12+03:00</updated>
     <author>
         <name>BIPOI</name>
     </author>
     <id>https://comeonyoucandoit.github.io/gh-pages</id>
 
+    <entry>
+        <title>testpost</title>
+        <author>
+            <name>BIPOI</name>
+        </author>
+        <link href="https://comeonyoucandoit.github.io/gh-pages/testpost.html"/>
+        <id>https://comeonyoucandoit.github.io/gh-pages/testpost.html</id>
+
+        <updated>2022-05-23T22:59:12+03:00</updated>
+            <summary>
+                <![CDATA[
+                    hbkhhjkhjkhjk vgjhjghjghjjgh
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--wide">
+      <img loading="lazy" src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/awesome.svg" height="24" width="24" alt="" />
+      
+    </figure>
+
+  <p>
+    hbkhhjkhjkhjk
+  </p>
+
+    <h2 id="vgjhjghjghjjgh">
+      vgjhjghjghjjgh
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/appy-software-manager-main-menu-20220123.png" sizes="100vw" srcset="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-xs.png 300w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-sm.png 480w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-md.png 768w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-lg.png 1024w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-xl.png 1360w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-2xl.png 1600w"  height="768" width="1360" alt="" />
+      
+    </figure>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/351.png" data-size="64x59">
+        <img loading="lazy" src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/351-thumbnail.png" height="59" width="64" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/1490.png" data-size="256x256">
+        <img loading="lazy" src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/1490-thumbnail.png" height="256" width="256" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/cat.svg" data-size="falsexfalse">
+        <img loading="lazy" src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/cat.svg" height="" width="" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
 </feed>
