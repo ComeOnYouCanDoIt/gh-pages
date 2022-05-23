@@ -3,7 +3,7 @@
     <title>rEW</title>
     <link href="https://comeonyoucandoit.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://comeonyoucandoit.github.io/gh-pages" />
-    <updated>2022-05-23T22:59:12+03:00</updated>
+    <updated>2022-05-23T23:01:16+03:00</updated>
     <author>
         <name>BIPOI</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://comeonyoucandoit.github.io/gh-pages/testpost.html"/>
         <id>https://comeonyoucandoit.github.io/gh-pages/testpost.html</id>
 
-        <updated>2022-05-23T22:59:12+03:00</updated>
+        <updated>2022-05-23T23:01:16+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/1489.png" alt="" />
                     hbkhhjkhjkhjk vgjhjghjghjjgh
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/1489.png" alt="" />
                 
     <figure class="post__image post__image--wide">
       <img loading="lazy" src="https://comeonyoucandoit.github.io/gh-pages/media/posts/1/awesome.svg" height="24" width="24" alt="" />

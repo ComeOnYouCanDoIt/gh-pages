@@ -16,13 +16,14 @@
             "title": "testpost",
             "summary": "hbkhhjkhjkhjk vgjhjghjghjjgh",
             "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/awesome.svg\" height=\"24\" width=\"24\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    hbkhhjkhjkhjk\n  </p>\n\n    <h2 id=\"vgjhjghjghjjgh\">\n      vgjhjghjghjjgh\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/appy-software-manager-main-menu-20220123.png\" sizes=\"100vw\" srcset=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-xs.png 300w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-sm.png 480w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-md.png 768w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-lg.png 1024w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-xl.png 1360w ,https://comeonyoucandoit.github.io/gh-pages/media/posts/1/responsive/appy-software-manager-main-menu-20220123-2xl.png 1600w\"  height=\"768\" width=\"1360\" alt=\"\" />\n      \n    </figure>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/351.png\" data-size=\"64x59\">\n        <img loading=\"lazy\" src=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/351-thumbnail.png\" height=\"59\" width=\"64\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/1490.png\" data-size=\"256x256\">\n        <img loading=\"lazy\" src=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/1490-thumbnail.png\" height=\"256\" width=\"256\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/cat.svg\" data-size=\"falsexfalse\">\n        <img loading=\"lazy\" src=\"https://comeonyoucandoit.github.io/gh-pages/media/posts/1/gallery/cat.svg\" height=\"\" width=\"\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://comeonyoucandoit.github.io/gh-pages/media/posts/1/1489.png",
             "author": {
                 "name": "BIPOI"
             },
             "tags": [
             ],
             "date_published": "2022-05-23T22:53:27+03:00",
-            "date_modified": "2022-05-23T22:59:12+03:00"
+            "date_modified": "2022-05-23T23:01:16+03:00"
         }
     ]
 }
