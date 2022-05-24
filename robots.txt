@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://comeonyoucandoit.github.io/gh-pages/sitemap.xml
+Disallow: /
